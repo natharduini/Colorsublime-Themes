@@ -45,9 +45,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#000000</string>
-				<key>background</key>
-				<string>#FFF673C4</string>
+				<string>#575F6D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -97,7 +95,20 @@
 			<key>name</key>
 			<string>cfml: coldfusion tag</string>
 			<key>scope</key>
-			<string>entity.name.tag.cf,punctuation.definition.tag,meta.tag.sgml</string>
+			<string>entity.name.tag.cf,meta.tag.sgml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#AD7776</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cfml: coldfusion tag</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -116,7 +127,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EB4949</string>
+				<string>#4A72AD</string>
 			</dict>
 		</dict>
 		<dict>
